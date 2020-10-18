@@ -1,4 +1,4 @@
-# Vorlage
+# Honyone LED PB06-B-WT
 ## Inhaltsverzeichnis
 1. [x] [Inhaltsverzeichnis](#Inhaltsverzeichnis)
 1. [ ] [Beschreibung](#Beschreibung)
@@ -13,31 +13,44 @@
 1. [x] [Credits](#Credits)
 
 ## Beschreibung
-bla
+LED-Switch (white, red(pink), green, blue, RGB)
 
 ## Hardware
+[Honyone-Website](http://www.honyone.com/en/products/show_243.html)
 ### Technische Daten
-* Modell:Multiplexer/Demultiplexer
-* Typ:74HC 4067
-* Temperaturbereich:-40 ... +85 °C
-* Versorgungsspannung:2,0 ... 10,0 VDC
-* Leistung:500 mW
-* LCSC Part #: C6525 / C424181 / [C98457](https://lcsc.com/product-detail/Analog-Switches_TI_CD74HC4067SM96_CD74HC4067SM96_C98457.html/?href=jlc-SMT)
-* EAN / GTIN: 9900001079047
+* Model: PB-06-B-WT1
+   * PB06-B-WT-R-NN-DY (Red)
+   * PB06-B-WT-G-NN-DY (Green)
+   * PB06-B-WT-U-NN-DY (Blue)
+   * PB06-B-WT-W-NN-DY (White)
+   * PB06-B-WT-RGB-NN-QY (RGB)
+* Function: Momentary
+* Circuit: OFF-(ON) / Momentary SPST
+* Current Rating: 100mA
+* Solder Spec: 350 °C for 5 seconds
+* Resistance: 100 MOhm
+* Operating life: 1.000.000 Cycles minimum
+* LCSC Part #: Honyone-products not available
+* EAN / GTIN: not available
 
 ### Datasheet
-* [TI.com datasheet](https://www.ti.com/lit/ds/symlink/cd74hc4067.pdf)
-* [snapshot](datasheet/xyz.pdf)
+* ![Datasheet](images/PB-06-B-WT1_datasheet.jpg)
+* ![RGB](images/PB-06-B-WT1_pinout-foto-rgb.jpg)
+* ![one colour](images/PB-06-B-WT1_pinout-foto.jpg)
 ### PCB
 ## Software
 ## 3D
 
 ## Where to buy
-~ 6 EUR for 10pcs: [AliExpress](https://www.aliexpress.com/item/32821800330.html)
+~ 19 EUR for 10pcs: [AliExpress JC Electronic Components](https://www.aliexpress.com/item/33004443562.html)
 
 ## Abbildungen
-![Front](images/front.png)
-![Back](images/back.png)
+![Switches in 4 colors](images/4-colours.jpg)
+![Bottom](images/Snap_005.jpg)
+![PCB-Layout](images/PB-06-B-WT1_PCB_Layout.jpg)
+![Schaltung](images/PB-06-B-WT1_circuit.jpg)
+![2nd datasheet](images/PB-06-B-WT1_datasheet.png)
+![unknown variant](images/unknown.jpg)
 
 ## Credits
 * :+1: [arduino](https://github.com/arduino)
