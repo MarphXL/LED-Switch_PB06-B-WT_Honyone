@@ -30,6 +30,20 @@ LED-Switch (white, red(pink), green, blue, RGB)
 * Solder Spec: 350 °C for 5 seconds
 * Resistance: 100 MOhm
 * Operating life: 1.000.000 Cycles minimum
+* Switch Rating: 100mA / 12VDC
+* LED Working Voltage(@20mA)
+* Red:1.8-2.4V
+* Green:2.7-3.7V
+* Blue : 2.7-3.7v
+* White:2.9-3.6V
+* Button Color:White + Transparent
+* Button Size:15 x 15mm
+* Switch Action:Momentary (Self-Return)
+* Contact Form:SPST
+* Function:OFF-MOM
+* Button Travel:4.5±0.2mm
+* Solder Specifications:350℃ for 3 Seconds
+* Weight:3.8g
 * LCSC Part #: Honyone-products not available
 * EAN / GTIN: not available
 
